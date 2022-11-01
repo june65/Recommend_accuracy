@@ -138,8 +138,9 @@ def recommend(product,detail,important_size,important_category_name,dog_data):
 
     #추천 알고리즘
 
-    if input==1:
-        print("none","none")
+    if input == 1:
+        print(clothes_data_detail_json[i].get("product_uuid"))
+        return "none","none"
     else :
             
         recommend_size = "none" #적당함, 슬림핏
@@ -332,7 +333,8 @@ def recommend(product,detail,important_size,important_category_name,dog_data):
                                             if dog_size_back >= (back_size_count_middle[k] + back_size_count_middle[k + 1]) / 2 and dog_size_back < back_size_count_middle[k + 1]:
                                                 recommend_size = size_name[k + 1]
 
-        print(recommend_size , recommend_size2)
+        print(clothes_data_detail_json[i].get("product_uuid"))
+        return recommend_size , recommend_size2
 
         # 결과값 ('XL','failed') => 추천 사이즈 XL
         # 결과값 ('XL','none') => 슬림핏 XL

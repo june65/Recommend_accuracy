@@ -25,9 +25,11 @@ def file_read(file):
     print("successfully file_read")
 
     return dog_info_list  
+    
 
 data_file = open('./model.csv', 'r')
 dog_data = file_read(data_file)
+result_list = []
 
 for j in range(1,len(dog_data)):
 
@@ -62,4 +64,21 @@ for j in range(1,len(dog_data)):
             important_size = main_important_size.get("important_size")
             important_category_name = main_important_size.get("category_name")
 
-    recommend(response_product.text,response_detail.text,important_size,important_category_name,dog_data[j])
+    result_list.append([recommend(response_product.text,response_detail.text,important_size,important_category_name,dog_data[j])])
+
+# file_save 
+def file_save(data,initial_data):
+    print("start file_write")
+    
+    data_file = open('./result.csv', 'w')
+    dog_info_txt = ''
+
+    for i in range(0, len(data)):
+
+        dog_info_txt += str(data[i][0]).replace("(","").replace(")","") + ',' + str(initial_data[i+1][10]) + '\n'
+
+    data_file.write(dog_info_txt)
+
+    print("successfully file_write")
+
+file_save(result_list,dog_data)
