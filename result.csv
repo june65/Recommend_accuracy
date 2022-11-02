@@ -1,30 +1,63 @@
-'M', 'failed',s
-'M', 'L',m
-'none', 'failed',s
-'M', 'L',m
-'S', 'failed',s
-'none', 'failed',s
-'M', 'failed',s
-'L', 'XL',m
-'L', 'failed',l
-'SM', 'failed',sm
-'SM', 'failed',m
-'L', 'failed',m
-'L', 'failed',l
-'XL', '2XL',L
-'L', 'failed',L
-'none', 'failed',L
-'M', 'failed',L
-'M', 'L',L
-'M', 'L',L
-'SM', 'failed',SM
-'M', 'L',L
-'XL', 'failed',L
-'none', 'failed',2XL
-'2XL', 'none',2XL
-'2XL', 'none',2XL
-'L', 'XL',M
-'none', 'none',SM
-'none', 'none',L
-'L', 'failed',L
-'L', 'failed',L
+강아지 겨울옷 겨울집업 따뜻한 '아이스크림퍼집업','M', 'failed',S
+[까이에슈슈] 와이드 프릴칼라 트위드자켓,'M', 'L',M
+[까이에슈슈] 와이드 프릴칼라 트위드자켓,'none', 'failed',S
+[까이에슈슈] 와이드 프릴칼라 트위드자켓,'M', 'L',M
+[까이에슈슈] 와이드 프릴칼라 트위드자켓,'S', 'failed',S
+[까이에슈슈] 와이드 프릴칼라 트위드자켓,'none', 'failed',S
+할무니 꽃무늬 조끼,'M', 'failed',S
+할무니 꽃무늬 조끼,'L', 'XL',M
+할무니 꽃무늬 조끼,'L', 'failed',L
+무지개 후리스,'SM', 'failed',SM
+무지개 후리스,'SM', 'failed',M
+포시즌 울 집업_pink,'L', 'failed',M
+포시즌 울 집업_pink,'L', 'failed',L
+다이야브이티,'XL', '2XL',L
+아이비카라티,'L', 'failed',L
+소프트누빔패딩올인원,'2XL', 'failed',L
+하트뽀송패딩자켓,'M', 'failed',L
+웜와플라운드티,'M', 'L',L
+양털푸들조끼,'M', 'L',L
+포시즌 울 집업_pink,'SM', 'failed',SM
+몽실하트후드티,'M', 'L',L
+체리스케익 배턴버그 강아지옷 티셔츠,'XL', 'failed',L
+울트라라이트 폴라 자켓 강아지 패딩,'none', 'failed',2XL
+소피아양털후리스,'2XL', 'none',2XL
+모던애니티,'2XL', 'none',2XL
+허그미하네스 리드줄세트,'L', 'XL',M
+진주 목걸이,'none', 'none',SM
+캔디트위드 자켓,'none', 'none',L
+할무니 꽃무늬 조끼,'L', 'failed',L
+다이아몬드 체크 조끼,'L', 'failed',L
+댕글캔디 카라티셔츠(옐로우),'M', 'L',M
+댕글캔디 카라티셔츠(옐로우),'L', 'XL',M
+댕글캔디 카라티셔츠(옐로우),'M', 'L',M
+댕글캔디 카라티셔츠(옐로우),'L', 'failed',L
+슈슈 프릴 티셔츠,'none', 'failed',SM
+슈슈 프릴 티셔츠,'none', 'failed',M
+슈슈 프릴 티셔츠,'none', 'failed',M
+[까이에슈슈] 핑크 레이스 하네스,'M', 'L',M
+[까이에슈슈] 핑크 레이스 하네스,'S', 'failed',S
+[까이에슈슈] 핑크 레이스 하네스,'M', 'L',M
+[까이에슈슈] 핑크 레이스 하네스,'M', 'failed',S
+[까이에슈슈] 핑크 레이스 하네스,'S', 'failed',S
+몽이네 쉐이크 나시티,'none', 'failed',M
+몽이네 쉐이크 나시티,'none', 'failed',L
+데이지 퐁퐁 카라 원피스,'M', 'L',M
+에이콘 강아지옷 신상 파스텔 아가일 (3colors.) / S - 2XL,'L', 'XL',L
+체리스케익 레인보우샤베트 강아지옷 티셔츠 S-XL,'L', 'failed',XL
+체리스케익 레인보우샤베트 강아지옷 티셔츠 S-XL,'L', 'XL',L
+체리스케익 레인보우샤베트 강아지옷 티셔츠 S-XL,'M', 'failed',M
+토토의 당근농장 나시티,'none', 'failed',M
+토토의 당근농장 나시티,'none', 'failed',L
+체리스케익 배턴버그 강아지옷 티셔츠 브라운 S-XL,'L', 'failed',XL
+체리스케익 배턴버그 강아지옷 티셔츠 브라운 S-XL,'L', 'XL',L
+체리스케익 배턴버그 강아지옷 티셔츠 브라운 S-XL,'M', 'failed',M
+[야광/냉감기능/자외선차단] 에이콘 강아지옷 신상 곰돌이 야광 나시 / S - 2XL,'L', 'XL',L
+하트하트빔 나시티,'S', 'failed',S
+하트하트빔 나시티,'M', 'L',M
+하트하트빔 나시티,'L', 'XL',XL
+자체제작 강아지 레이어드티셔츠 4계절용이너티 '베비카라블라우스','M', 'failed',S
+꾸러기 카라 탑_blue,'SM', 'failed',SM
+꾸러기 카라 탑_blue,'L', 'XL',M
+꾸러기 카라 탑_blue,'L', 'failed',M
+꾸러기 카라 탑_blue,'XL', 'none',L

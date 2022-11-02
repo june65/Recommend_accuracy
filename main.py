@@ -75,7 +75,7 @@ def file_save(data,initial_data):
 
     for i in range(0, len(data)):
 
-        dog_info_txt += str(data[i][0]).replace("(","").replace(")","") + ',' + str(initial_data[i+1][10]) + '\n'
+        dog_info_txt += str(initial_data[i+1][1]) + ',' + str(data[i][0]).replace("(","").replace(")","") + ',' + str(initial_data[i+1][10]) + '\n'
 
     data_file.write(dog_info_txt)
 
